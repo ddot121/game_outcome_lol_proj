@@ -1,5 +1,5 @@
-# ADC
-Is ADC in League of Legends a dead role?
+# ADC Role Relevancy Project
+A personal project by Donnie Aikins assessing the role of ADCs in League of Legends (Summoner's Rift)
 
 # League of Legends
 League of Legends (LOL) is a MOBA developed by Riot Games.

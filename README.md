@@ -1,5 +1,5 @@
-# ADC Role Relevancy Project
-A personal project by Donnie Aikins assessing the role of ADCs in League of Legends (Summoner's Rift)
+# Game Outcome Predictor
+A personal project by Donnie Aikins predicting the outcome of games in League of Legends based on bot lane success (Summoner's Rift)
 
 # League of Legends
 League of Legends (LOL) is a MOBA developed by Riot Games.
@@ -32,7 +32,7 @@ As I write this now (Season 12), [I am a Silver 1](https://euw.op.gg/summoners/e
 A lot of my games were and still are heavily influenced through the success of my neighbouring laner, the ADC. It would be frustating to play sometimes being a Support because it isn't in the role responsibilities to _carry_ (lead) a game.
 So, as an attempt to transition into a more game-dominant role, I decided to try the ADC role, mainly playing Aphelios.
 
-It was not until I played a couple of games that I realised the massive difficulty gap between roles - having to farm minions in lane whilst having two opposing champions hunt you down. 
+It was not until I played a couple of games that I realised that succeeding in the laning phase is not as easy as one may think; having to farm minions in lane whilst having two opposing champions hunt you down. 
 
 _Oh, did I forget to mention, including the Jungler too?_
 
@@ -43,12 +43,11 @@ The current meta of roaming supports means that you are in lane by yourself most
 
 ...The list goes on.
 
-Obviously, great players find success within the ADC role. And they are to be praised for their magnificent ability to do so.
-But for the majority of players within the commmunity (most importantly myself), I want to look at and assess the relevancy of the ADC role to a game respective to ranks. Judging whether ADC is a dead role or not.
+Eventually you'll find yourself to be 0/11/2 staring at ![DEFEAT](https://user-images.githubusercontent.com/59264543/170416587-80807901-a349-414f-a106-aaf829de769d.png)
 
-One may say,
-_Well you are playing Aphelios, a difficult champion. And plus, you should just practice and play more to get better! COPIUMMAXX_
-And to that I say... *fair*. But, It would be insightful to provide statistical anaylsis on the state of ADCs to present to the community because... I really like League of Legends and I will continue to play it despite griefing my teammates.
+Was it because of the matchup? Was it because of the team composition? Was it because of team gold earned at 10 minutes?
+
+These are metrics that I want to explore that will hopefully help myself and the LOL community before queuing up for another Ranked game.
 
 # Methodology
 

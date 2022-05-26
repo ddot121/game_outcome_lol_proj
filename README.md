@@ -32,7 +32,7 @@ As I write this now (Season 12), [I am a Silver 1](https://euw.op.gg/summoners/e
 A lot of my games were and still are heavily influenced through the success of my neighbouring laner, the ADC. It would be frustating to play sometimes being a Support because it isn't in the role responsibilities to _carry_ (lead) a game.
 So, as an attempt to transition into a more game-dominant role, I decided to try the ADC role, mainly playing Aphelios.
 
-It was not until I played a couple of games that I realised the massive diificulty gap between roles - having to farm minions in lane whilst having two opposing champions hunt you down. 
+It was not until I played a couple of games that I realised the massive difficulty gap between roles - having to farm minions in lane whilst having two opposing champions hunt you down. 
 
 _Oh, did I forget to mention, including the Jungler too?_
 
@@ -52,5 +52,10 @@ And to that I say... *fair*. But, It would be insightful to provide statistical 
 
 # Methodology
 
+_To be updated alongside completion of project_
+
 # Criticism
 
+I am open to and encourage all types of feedback. It is in my best interest to become a Data Scientist. Thus, please feel free to commment on anything.
+Email: okafindo@protonmail.com
+LinkedIn: [Donnie Aikins](https://www.linkedin.com/in/donnieaikins/)

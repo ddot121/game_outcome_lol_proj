@@ -1,4 +1,3 @@
-import random
 import cassiopeia as cass
 from itertools import product
 import sys
@@ -41,6 +40,7 @@ divisions = ["IV", "III", "II", "I"]
 
 headers = ["Summoner", "Tier", "Division"]
 
+# add players from silver-plat to a csv file
 with open("low_elo_summoners.csv", "w", encoding="UTF8", newline= '') as f:
     writer = csv.writer(f)
     writer.writerow(headers)

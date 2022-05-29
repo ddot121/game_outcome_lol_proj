@@ -35,5 +35,3 @@ summoners['PUUID'] = puuid
 summoners['MATCHID'] = matchid
 
 summoners.to_csv("low_elo_summoners_puuid.csv", index= False)
-
-

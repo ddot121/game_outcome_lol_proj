@@ -28,7 +28,7 @@ The following is a standard map of Summoner's Rift to provide more insight. And 
 
 # Motivation
 I have been playing League of Legends since season 10 where I was fortunte enough to reach Gold IV playing only the Support Role. 
-As I write this now (Season 12), [I am a Silver 1](https://euw.op.gg/summoners/euw/ddot) still playing Support.
+As I write this now (Season 12), [I am a GOLD IV](https://euw.op.gg/summoners/euw/ddot) still playing Support.
 A lot of my games were and still are heavily influenced through the success of my neighbouring laner, the ADC. It would be frustating to play sometimes being a Support because it isn't in the role responsibilities to _carry_ (lead) a game.
 So, as an attempt to transition into a more game-dominant role, I decided to try the ADC role, mainly playing Aphelios.
 
